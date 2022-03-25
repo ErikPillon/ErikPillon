@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Formula1, history, pop-science and LEGO projects**
 - 🌱 Currently learning Haskell and German
 - ⚡ PubQuiz organizer 
-- <i class='fas fa-chess'></i> Chess player
-- 
+- Board games enthusiast
+- Hiking - Cycling - Running
